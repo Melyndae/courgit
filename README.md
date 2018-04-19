@@ -1,1 +1,1 @@
-# Mélinda
+# Cours Github de Logan
